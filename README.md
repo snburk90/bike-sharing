@@ -11,4 +11,3 @@ The goal is to answer key questions such as:
 
 ## 🗂️ Dataset
 The dataset is available at: /databricks-datasets/bikeSharing/data-001/hour.csv
-# databricks
