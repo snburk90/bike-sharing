@@ -30,4 +30,4 @@ The dataset is available at: /databricks-datasets/bikeSharing/data-001/hour.csv
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/snburk90/bike-sharing-databricks.git
+   git clone https://github.com/snburk90/bike-sharing.git
