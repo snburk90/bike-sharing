@@ -16,9 +16,7 @@ The dataset is available at: /databricks-datasets/bikeSharing/data-001/hour.csv
 
 | Notebook | Description |
 |----------|-------------|
-| `01_data_exploration` | Initial data profiling and visualization |
-| `02_weekday_vs_weekend` | Analysis comparing weekday and weekend usage |
-| `03_hourly_trends` | Hourly breakdown of rental activity |
+| `bike-sharing` | Bike Sharing Exploratory Data Analysis|
 
 ## ⚙️ Requirements
 
